@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Junaid
+- 👀 I’m interested in web & mobile apps development
+- 🌱 I’m currently learning Node and React
+- 💞️ I’m looking to collaborate on any freelance work
+- 📫 You can reach me at muhammadjunaidiqbal01@gmail.com
